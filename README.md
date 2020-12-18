@@ -1,0 +1,2 @@
+# new-g
+ my file
